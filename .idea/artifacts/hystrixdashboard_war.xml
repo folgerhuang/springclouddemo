@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hystrixdashboard:war">
+    <output-path>$PROJECT_DIR$/hystrixdashboard/target</output-path>
+    <root id="archive" name="hystrixdashboard-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hystrixdashboard:war exploded" />
+    </root>
+  </artifact>
+</component>
