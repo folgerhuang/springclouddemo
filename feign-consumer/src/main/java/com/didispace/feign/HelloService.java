@@ -11,5 +11,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public interface HelloService {
 
     @RequestMapping("/hello/{name}")
-    public String Hello(@PathVariable("name") String name);
+    String Hello(@PathVariable("name") String name);
 }
